@@ -1,0 +1,8 @@
+"../DataMem.sv"	1
+"../SignExt.sv"	1
+"../Adder.sv"	1
+"../design.sv"	1
+"../testbench.sv"	1
+"../PC.sv"	1
+"../RegFile.sv"	1
+"../InstMem.sv"	1

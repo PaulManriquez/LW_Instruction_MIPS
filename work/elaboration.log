@@ -1,0 +1,30 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2022-08-02 21:52:16
+
+Elaboration top modules:
+Verilog Module                LW_TB
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+LW_TB                   | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+LW                      | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Adder                   | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+PC                      | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+InstMem                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+RegFile                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+SignExt                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+DataMem                 | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
